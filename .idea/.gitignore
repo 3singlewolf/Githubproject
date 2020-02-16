@@ -1,2 +1,65 @@
 # Default ignored files
 /workspace.xml
+# Java
+
+*.class
+
+ 
+
+# Eclipse
+
+.classpath
+
+.project
+
+.settings/
+
+ 
+
+# Intellij
+
+.idea/
+
+*.iml
+
+*.iws
+
+out/
+
+ 
+
+# Mac
+
+.DS_Store
+
+ 
+
+# Maven
+
+log/
+
+target/
+
+ 
+
+# svn
+
+.svn/
+
+ 
+
+scandir/
+
+rebel.xml
+
+ 
+
+#lilei environment
+
+dep2.sh
+
+ 
+
+#log
+
+*.log
