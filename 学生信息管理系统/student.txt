@@ -1,0 +1,6 @@
+{'id': '100', 'name': 'as', 'english': 100, 'python': 90, 'c': 89}
+{'id': '101', 'name': 'af', 'english': 120, 'python': 99, 'c': 15}
+{'id': '102', 'name': 'ag', 'english': 100, 'python': 150, 'c': 50}
+{'id': '103', 'name': 'ah', 'english': 100, 'python': 50, 'c': 300}
+{'id': '104', 'name': 'aj', 'english': 15, 'python': 11, 'c': 155}
+{'id': '105', 'name': 'ak', 'english': 123, 'python': 12, 'c': 99}
